@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KurssiTestiApiNET6", "KurssiTestiApiNET6\KurssiTestiApiNET6.csproj", "{0FBB846F-4A7A-4C2F-AD48-C50F2C572713}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KurssiTestiApiNET6.Tests", "KurssiApiTests\KurssiTestiApiNET6.Tests.csproj", "{9E7EF82B-7AB7-42E0-BC47-9C605A93EFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBB846F-4A7A-4C2F-AD48-C50F2C572713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBB846F-4A7A-4C2F-AD48-C50F2C572713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBB846F-4A7A-4C2F-AD48-C50F2C572713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBB846F-4A7A-4C2F-AD48-C50F2C572713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7EF82B-7AB7-42E0-BC47-9C605A93EFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7EF82B-7AB7-42E0-BC47-9C605A93EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7EF82B-7AB7-42E0-BC47-9C605A93EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7EF82B-7AB7-42E0-BC47-9C605A93EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75EC6C1-F681-4A5A-8E8D-141D4BBCAE72}
+	EndGlobalSection
+EndGlobal
