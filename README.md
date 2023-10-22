@@ -8,4 +8,6 @@ Projektitiedostoon on lisätty:
 
 	<ItemGroup>
 		 <InternalsVisibleTo Include="$(AssemblyName).Tests" />
-  </ItemGroup>
+  	</ItemGroup>
+
+   Testikoodia on kirjoitettu oletuksena tulleeseen tiedostoon.
