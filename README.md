@@ -13,4 +13,5 @@ Projektitiedostoon on lisätty:
    ***** Luultavasti pitää asentaa myös Microsoft.AspNetCore.Mvc.Testing niminen NuGet paketti *****
    ***** Ja laittaa se using lauseisiin *******
 
-   Testikoodia on kirjoitettu oletuksena tulleeseen tiedostoon kuten koodimallissa näkyykin..
+   Testikoodia on kirjoitettu oletuksena tulleeseen Kurssitestit.cs tiedostoon, jonka nimi oli aluksi TestClass1.cs tms. mutta nimi on muutettu.
+   
