@@ -10,4 +10,7 @@ Projektitiedostoon on lisätty:
 		 <InternalsVisibleTo Include="$(AssemblyName).Tests" />
   	</ItemGroup>
 
-   Testikoodia on kirjoitettu oletuksena tulleeseen tiedostoon.
+   ***** Luultavasti pitää asentaa myös Microsoft.AspNetCore.Mvc.Testing niminen NuGet paketti *****
+   ***** Ja laittaa se using lauseisiin *******
+
+   Testikoodia on kirjoitettu oletuksena tulleeseen tiedostoon kuten koodimallissa näkyykin..
